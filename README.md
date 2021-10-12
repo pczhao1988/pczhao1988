@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pczhao1988, formally @pczhao1210, banned by Github with no prior notification
+- 👋 Hi, I’m @pczhao1988
 - 👀 I’m interested in Sightseeing, Listening to Music and Reading
 - 🌱 I’m currently learning IoT and Industrial IoT
 
